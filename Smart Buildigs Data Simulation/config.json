@@ -1,5 +1,5 @@
 ﻿{
-  "IoTHubDeviceConnectionString":"{Your IoT Hub Device Connection String}",
-  "OpenWeatherId":"{Your Open Weather Map API Key}",
-  "OpenWeatherlocationId":"{Your Open Weather Map Location Id}"
+  "IoTHubDeviceConnectionString":"{Your Azure IoT Hub Device Connection String}",
+  "OpenWeatherMapApiKey":"{Your Open Weather Map API Key}",
+  "OpenWeatherMapLocationId":"Sydney, AU"
 }

@@ -3,7 +3,7 @@
     public class Config
     {
         public string IoTHubDeviceConnectionString { get; set; }
-        public string OpenWeatherId { get; set; }
-        public string OpenWeatherlocationId { get; set; }
+        public string OpenWeatherMapApiKey { get; set; }
+        public string OpenWeatherMapLocationId { get; set; }
     }
 }
